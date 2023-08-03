@@ -1,0 +1,97 @@
+ // question: 1 name: Microsoft Windows
+::Microsoft Windows::Windows is a(n) ________ created by Microsoft. {
+=operating system
+#Very good!
+~web browser
+#Nope, sorry!
+~word processor
+#Nope, sorry!
+~computer
+#Nope, sorry!
+}
+
+ // question: 2 name: The Workspace
+::The Workspace::The main workspace of a Windows computer is called the ________. {
+=desktop
+#Very good!
+~shortcut
+#Nope, sorry!
+~taskbar
+#Nope, sorry!
+~folder
+#Nope, sorry!
+}
+
+ // question: 3 name: File Storage
+::File Storage::Files can be stored in a(n) ________. {
+=folder
+#Very good!
+~shortcut
+#Nope, sorry!
+~document
+#Nope, sorry!
+~another file
+#Nope, sorry!
+}
+
+ // question: 4 name: Locating a File
+::Locating a File::Let's say you're having trouble locating a file on your computer. Which of the following are good places to look for the file? Select all that apply. {
+   ~%-100%The Screensaver
+   ~%50%The Recycle Bin
+   ~%-100%The Video Card
+   ~%50%The Downloads Folder
+}
+
+ // question: 5 name: Move a Window
+::Move a Window::If you want to move a windows, you can click and drag the ________. {
+=top of the window
+#Very good!
+~Start Button
+#Nope, sorry!
+~Close Button
+#Nope, sorry!
+~Taskbar
+#Nope, sorry!
+}
+
+ // question: 6 name: Several Windows
+::Several Windows::Suppose you have several windows open on your desktop, but some of them are hidden behind other windows. What is the easiest way to switch to one of the hidden windows? {
+=Click the icon on the taskbar
+#Very good!
+~Press your computer's Power button
+#Nope, sorry!
+~Press Ctrl+Alt+Delete on your keyboard
+#Nope, sorry!
+~Close all programs and open them one by one
+#Nope, sorry!
+}
+
+ // question: 7 name: Move to Recycle Bin
+::FalseStatement about Recycle Bin::True or False, when you move a file to the Recycle Bin, it will be immediately deleted from your computer.{F}
+
+ // question: 8 name: Double Click a File
+::Double Click File::When you double-click a file on the desktop, it will open in the ________. {
+=default application for that file type
+#Very good!
+~Start Menu
+#Nope, sorry!
+~Control Panel
+#Nope, sorry!
+~Taskbar
+#Nope, sorry!
+}
+
+ // question: 9 name: Multiple User Accounts
+::FalseStatement about User Accounts::True or False, you can only have one user account on a Windows computer.{F}
+
+ // question: 10 name: CAD
+::CAD::When would you use the Ctrl+Alt+Delete keyboard shortcut? {
+=When a program is unresponsive
+#Very good!
+~When a program first opens
+#Nope, sorry!
+~When you want to delete a file
+#Nope, sorry!
+~When you first boot up your computer
+#Nope, sorry!
+}
