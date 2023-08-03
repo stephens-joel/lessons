@@ -1,0 +1,39 @@
+// question: 0  name: Switch category to $course$/top/Default for 5ZT
+$CATEGORY: $course$/top/Default for 5ZT
+
+
+// question: 727  name: Color Hot Key
+
+
+// question: 726  name: If you need to briefly silence speech, press CTRL.
+
+
+// question: 732  name: To decrease the voice rate, press CAPS LOCK+ALT+DOWN ARROW
+
+
+// question: 731  name: To increase the voice rate, press CAPS LOCK+ALT+UP ARROW
+
+
+// question: 725  name: ZoomText works in the background
+
+
+// question: 730  name: If you are running ZoomText Magnifier/Reader, ZoomText audibly echoes and narrates everything you do
+::If you are running ZoomText Magnifier/Reader, ZoomText audibly echoes and narrates everything you do::[markdown]If you are running ZoomText Magnifier/Reader, ZoomText audibly echoes and narrates everything you do{TRUE}
+
+
+// question: 729  name: To zoom in, press CAPS LOCK+UP ARROW
+::To zoom in, press CAPS LOCK+UP ARROW::[markdown]To zoom in, press CAPS LOCK+UP ARROW{TRUE}
+
+
+// question: 733  name: You can also change the voice rate
+::You can also change the voice rate::[markdown]You can change the voice rate using the **Voice** box on the **Reader** tab\n\n![Voice Rate box shown on the Reader tab](https\://support.freedomscientific.com/Content/images/training/ztRate.png){FALSE}
+
+
+// question: 728  name: You can navigate the ZoomText menu, toolbar tabs, toolbar controls, and button menus.
+::You can navigate the ZoomText menu, toolbar tabs, toolbar controls, and button menus.::[markdown]You can navigate the ZoomText menu, toolbar tabs, toolbar controls, and button menus with the keyboard.{TRUE}
+
+
+// question: 734  name: You can select the **Keyboard** button on the Reader tab to change keyboard echo features
+::You can select the **Keyboard** button on the Reader tab to change keyboard echo features::[markdown]You can select the **Keyboard** button on the Reader tab to change keyboard echo features\n\n![](https\://www.freedomscientific.com/wp-content/uploads/2019/09/ztKybdEcho.png){TRUE}
+
+
